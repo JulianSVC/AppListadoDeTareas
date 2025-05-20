@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999627906457",
+    "project_id": "applistadodetareas",
+    "storage_bucket": "applistadodetareas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999627906457:android:193b4d1d47a74c64450708",
+        "android_client_info": {
+          "package_name": "com.example.applistadodetareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgZRNcJoiI0IL5KRkMFDQce0NZ22qPRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999627906457:android:82d72890bceeac07450708",
+        "android_client_info": {
+          "package_name": "listado_de.tareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgZRNcJoiI0IL5KRkMFDQce0NZ22qPRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
